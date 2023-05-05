@@ -26,9 +26,9 @@ Fortuna 由三个主要部分组成：
 
 ```
 .
-├── accumulator.py			# 累加器
-├── fortuna.py				# Fortuna 主文件
-├── generator.py			# 生成器
-├── seed					# 种子文件
+├── accumulator.py			    # 累加器
+├── fortuna.py				      # Fortuna 主文件
+├── generator.py			      # 生成器
+├── seed					          # 种子文件
 └── seed_file_management.py	# 种子文件管理
 ```
